@@ -1,4 +1,4 @@
-export default function examplePage() {
+export default function maddiePage() {
     return (
       <div className='container'>
         <title>Website</title>
@@ -6,7 +6,7 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hello, Im Ron Burgundy?</h1>
+            <h1 className='title'>Hi! I'm Maddie</h1>
           </div>
           <img
             className='pic'
